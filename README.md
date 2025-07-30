@@ -26,6 +26,7 @@ Peter Yong Zhong, Siyuan Chen, Ruiqi Wang, McKenna McCall, Ben L. Titzer, Heathe
 
 
 **Note**: Many of these authors show up across multiple key papers in this list, Debenedetti, Beurer-Kellner, Tramèr, etc. They seem to be leading a lot of the work on prompt injection defenses for agents and formal agent security. Might be worth keeping an eye on their future papers or seeing who builds on or cites their work.
+Beurer-Kellner is also one of the researchers who found the GitHub MCP server vulnerability.
 
 ## 2. AI Agent Guardrails
 Zhaorun Chen, Mintong Kang, and Bo Li. 2025. [ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning](https://doi.org/10.48550/arXiv.2503.22738). 
